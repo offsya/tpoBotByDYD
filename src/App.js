@@ -4,7 +4,6 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Items from "./components/Items";
 import Categories from "./components/Categories";
-import categories from "./components/Categories";
 import ShowFullItem from "./components/ShowFullItem";
 
 function App() {
